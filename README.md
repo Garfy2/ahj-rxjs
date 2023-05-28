@@ -1,6 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/7jc6mr9l2ska6inq?svg=true)](https://ci.appveyor.com/project/Garfy2/ahj-rxjs)
 
 
-WEB Version: 
+WEB Version: https://garfy2.github.io/ahj-rxjs/
 
 Правила сдачи задания:
 
